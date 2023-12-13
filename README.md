@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simran
-- 👀 I’m interested in craeting a amazing websites.
+- 👀 I’m interested in craeting an amazing websites.
 - 🌱 I’m currently learning Django using python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
